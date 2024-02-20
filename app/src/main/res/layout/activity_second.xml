@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <!-- First Button -->
+
+    <!-- Second Button, placed next to the first button -->
+
+    <Button
+        android:id="@+id/secondNextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:backgroundTint="#00BCD4"
+        android:text="Go to third activity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.407" />
+
+    <Button
+        android:id="@+id/secondPreviousButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="124dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Go to main activity"
+        app:layout_constraintStart_toStartOf="@id/secondNextButton"
+        app:layout_constraintTop_toBottomOf="@id/secondNextButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
