@@ -1,4 +1,4 @@
-Feuture 
+Feature 
 1. Functional
    - The user can view public parking lots in Madrid on the map and also see their current location.
    - They can access with different users.
