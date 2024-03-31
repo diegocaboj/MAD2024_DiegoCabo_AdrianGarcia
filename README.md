@@ -13,3 +13,8 @@ Feuture
   
   How to use 
   At the start of the application, it will request permission to use real-time location. Then, it will prompt the user to enter a username.
+
+  Participants 
+  Diego Cabo
+  Lucia Zayas 
+
