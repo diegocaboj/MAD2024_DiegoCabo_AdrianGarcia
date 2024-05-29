@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">ParkFinder</string>
     <string name="title_home">Home</string>
     <string name="title_mapa">Map</string>
@@ -8,4 +9,7 @@
     <string name="signed_in">Signed in!</string>
     <string name="signed_out">Signed out!</string>
     <string name="signed_cancelled">Signed in cancelled</string>
+=======
+    <string name="app_name">OpenWeatherKt</string>
+>>>>>>> origin/master
 </resources>
