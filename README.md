@@ -12,13 +12,12 @@ Github:
 Workspace: https://upm365.sharepoint.com/sites/MobileAppDevelopment_DiegoCabo_LuciaZayas/SitePages/CollabHome.aspx
 
 
-Description    
+Description 
 ParkFinder is an application focused on parking in Madrid. It features a map that shows parking locations and your current location. On this map, there is a button that tells you which parking lot is closest to you. ParkFinder also keeps a history of your locations and provides information about the parking lots, such as the street name where they are located, the price, the number of spaces, etc. It stands out from many other applications because you can use it without having to keep your location active, thanks to a feature that allows you to manually enter coordinates and a maximum distance. All the parking lots within that distance from the specified location will be displayed.
 
 
 
 Screenshots and navigation
-
 ![Screenshots][images/readme1.jpg]  
 ![Screenshots][images/readme2.jpg]  
 ![Screenshots][images/readme3.jpg]  
@@ -42,7 +41,7 @@ Screenshots and navigation
 ![Screenshots][images/readme21.jpg]  
 
 
-Demo Video   
+Demo Video 
 [Video Sing In](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/ES2AMITHTAhMhLtH5I2WoTYBlzJmnXQ_zdikJhrZFrYbsg?e=FNrdJd)
 
 [Video Sing In With Google](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/EZdL8Kk2ZcNIjb5KntnLfMUBTWHpG7bHe2AXcXvfLbUx1A?e=aZ0jfb)
@@ -51,7 +50,7 @@ Demo Video
 
 
 
-Features  
+Features
 1.	Functional
 -	The user can view public parking lots in Madrid on the map and also see their current location, and see which one is closer.
 -	They can access with different users, with a current email and password or through Google. They will also be able to see with what email you have entered the application once inside it. And also logout.
@@ -87,7 +86,6 @@ Guide:
 
 
 Participants
-
 List of MAD developers:
 
 Diego Cabo Jurado (d.cabo@alumnos.upm.es) 
