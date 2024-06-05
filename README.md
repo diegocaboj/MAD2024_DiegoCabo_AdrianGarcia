@@ -35,10 +35,10 @@ Screenshots and navigation
 [Screenshots15](images/readme15.jpg)    
 [Screenshots16](images/readme16.jpg)    
 [Screenshots17](images/readme17.jpg)   
-[Screenshots18](images/readme18.jpg)    
-[Screenshots19](images/readme19.jpg)    
-[Screenshots20](images/readme20.jpg)   
-[Screenshots21](images/readme21.jpg)    
+[Screenshots18](images/readme18.JPG)    
+[Screenshots19](images/readme19.JPG)    
+[Screenshots20](images/readme20.JPG)   
+[Screenshots21](images/readme21.JPG)    
 
 
 Demo Video   
