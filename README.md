@@ -41,7 +41,7 @@ Screenshots and navigation
 ![Screenshots][images/readme21.jpg]  
 
 
-Demo Video 
+Demo Video   
 [Video Sing In](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/ES2AMITHTAhMhLtH5I2WoTYBlzJmnXQ_zdikJhrZFrYbsg?e=FNrdJd)
 
 [Video Sing In With Google](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/EZdL8Kk2ZcNIjb5KntnLfMUBTWHpG7bHe2AXcXvfLbUx1A?e=aZ0jfb)
