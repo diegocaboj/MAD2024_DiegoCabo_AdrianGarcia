@@ -18,27 +18,27 @@ ParkFinder is an application focused on parking in Madrid. It features a map tha
 
 
 Screenshots and navigation  
-![Screenshots][images/readme1.jpg]  
-![Screenshots][images/readme2.jpg]  
-![Screenshots][images/readme3.jpg]  
-![Screenshots][images/readme4.jpg]  
-![Screenshots][images/readme5.jpg]  
-![Screenshots][images/readme6.jpg]  
-![Screenshots][images/readme7.jpg]  
-![Screenshots][images/readme8.jpg]  
-![Screenshots][images/readme9.jpg]  
-![Screenshots][images/readme10.png]  
-![Screenshots][images/readme11.png]  
-![Screenshots][images/readme12.jpg]  
-![Screenshots][images/readme13.jpg]  
-![Screenshots][images/readme14.jpg]  
-![Screenshots][images/readme15.jpg]  
-![Screenshots][images/readme16.jpg]  
-![Screenshots][images/readme17.jpg]  
-![Screenshots][images/readme18.jpg]  
-![Screenshots][images/readme19.jpg]  
-![Screenshots][images/readme20.jpg]  
-![Screenshots][images/readme21.jpg]  
+[Screenshots][images/readme1.jpg]  
+[Screenshots][images/readme2.jpg]  
+[Screenshots][images/readme3.jpg]  
+[Screenshots][images/readme4.jpg]  
+[Screenshots][images/readme5.jpg]  
+[Screenshots][images/readme6.jpg]  
+[Screenshots][images/readme7.jpg]  
+[Screenshots][images/readme8.jpg]  
+[Screenshots][images/readme9.jpg]  
+[Screenshots][images/readme10.png]  
+[Screenshots][images/readme11.png]  
+[Screenshots][images/readme12.jpg]  
+[Screenshots][images/readme13.jpg]  
+[Screenshots][images/readme14.jpg]  
+[Screenshots][images/readme15.jpg]  
+[Screenshots][images/readme16.jpg]  
+[Screenshots][images/readme17.jpg]  
+[Screenshots][images/readme18.jpg]  
+[Screenshots][images/readme19.jpg]  
+[Screenshots][images/readme20.jpg]  
+[Screenshots][images/readme21.jpg]  
 
 
 Demo Video   
@@ -58,7 +58,7 @@ Features
 -	The application allows you to do a filtered search through the coordinates and distance range from your location with the public parking lots in Madrid. In addition, just like from the map, they will also be able to see which are the closest parking lots from your location with a distance range of 600 meter by default.
 2.	Techincal
 -	Maps: Openstreetmaps
--	APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=37 4512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default. We use the API to display parking information
+-	APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default. We use the API to display parking information
 -	We add a toolbar and botton navegtion
 -	Persistence in room database
 -	Persistence in shared preference
