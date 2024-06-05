@@ -58,7 +58,7 @@ Features
 -	The application allows you to do a filtered search through the coordinates and distance range from your location with the public parking lots in Madrid. In addition, just like from the map, they will also be able to see which are the closest parking lots from your location with a distance range of 600 meter by default.
 2.	Techincal
 -	Maps: Openstreetmaps
--	APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a 0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=37 4512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default. We use the API to display parking information
+-	APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a 0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=37 4512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default . We use the API to display parking information
 -	We add a toolbar and botton navegtion
 -	Persistence in room database
 -	Persistence in shared preference
