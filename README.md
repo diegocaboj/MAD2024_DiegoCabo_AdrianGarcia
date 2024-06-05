@@ -18,27 +18,27 @@ ParkFinder is an application focused on parking in Madrid. It features a map tha
 
 
 Screenshots and navigation  
-[Screenshots][images/readme1.jpg]  
-[Screenshots][images/readme2.jpg]  
-[Screenshots][images/readme3.jpg]  
-[Screenshots][images/readme4.jpg]  
-[Screenshots][images/readme5.jpg]  
-[Screenshots][images/readme6.jpg]  
-[Screenshots][images/readme7.jpg]  
-[Screenshots][images/readme8.jpg]  
-[Screenshots][images/readme9.jpg]  
-[Screenshots][images/readme10.png]  
-[Screenshots][images/readme11.png]  
-[Screenshots][images/readme12.jpg]  
-[Screenshots][images/readme13.jpg]  
-[Screenshots][images/readme14.jpg]  
-[Screenshots][images/readme15.jpg]  
-[Screenshots][images/readme16.jpg]  
-[Screenshots][images/readme17.jpg]  
-[Screenshots][images/readme18.jpg]  
-[Screenshots][images/readme19.jpg]  
-[Screenshots][images/readme20.jpg]  
-[Screenshots][images/readme21.jpg]  
+[Screenshots](images/readme1.jpg)     
+[Screenshots](images/readme2.jpg)    
+[Screenshots](images/readme3.jpg)    
+[Screenshots](images/readme4.jpg)    
+[Screenshots](images/readme5.jpg)  
+[Screenshots](images/readme6.jpg)    
+[Screenshots](images/readme7.jpg)    
+[Screenshots](images/readme8.jpg)    
+[Screenshots](images/readme9.jpg)    
+[Screenshots](images/readme10.png)    
+[Screenshots](images/readme11.png)    
+[Screenshots](images/readme12.jpg)    
+[Screenshots](images/readme13.jpg)    
+[Screenshots](images/readme14.jpg)    
+[Screenshots](images/readme15.jpg)    
+[Screenshots](images/readme16.jpg)    
+[Screenshots](images/readme17.jpg)   
+[Screenshots](images/readme18.jpg)    
+[Screenshots](images/readme19.jpg)    
+[Screenshots](images/readme20.jpg)   
+[Screenshots](images/readme21.jpg)    
 
 
 Demo Video   
