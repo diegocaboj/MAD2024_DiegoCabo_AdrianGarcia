@@ -43,9 +43,9 @@ Screenshots and navigation
 
 
 Demo Video   
-[Video Sing In](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/ES2AMITHTAhMhLtH5I2WoTYBlzJmnXQ_zdikJhrZFrYbsg?e=FNrdJd)
+[Sing In Video](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/ES2AMITHTAhMhLtH5I2WoTYBlzJmnXQ_zdikJhrZFrYbsg?e=FNrdJd)
 
-[Video Sing In With Google](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/EZdL8Kk2ZcNIjb5KntnLfMUBTWHpG7bHe2AXcXvfLbUx1A?e=aZ0jfb)
+[Sing In With Google Video](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/EZdL8Kk2ZcNIjb5KntnLfMUBTWHpG7bHe2AXcXvfLbUx1A?e=aZ0jfb)
 
 [Demo Video](https://upm365.sharepoint.com/:v:/s/MobileAppDevelopment_DiegoCabo_LuciaZayas/EQ51uChoryVDu_lQqSL0szsBk2gzn6yI8PMHp4AyvTeB4Q?e=4bPCZC)
 
