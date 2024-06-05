@@ -17,7 +17,7 @@ ParkFinder is an application focused on parking in Madrid. It features a map tha
 
 
 
-Screenshots and navigation
+Screenshots and navigation  
 ![Screenshots][images/readme1.jpg]  
 ![Screenshots][images/readme2.jpg]  
 ![Screenshots][images/readme3.jpg]  
