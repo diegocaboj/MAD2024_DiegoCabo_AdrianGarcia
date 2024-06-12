@@ -66,6 +66,45 @@ Features
 -	Persistence in shared preference
 -	Firebase Authetication.
 
+Functional Features  
+
+Parking Location Search:  
+Map View: View parking spots on OpenStreetMap.  
+List View: Browse parking locations in a list.  
+Detail View: See detailed info for each parking spot.  
+Distance Filter: Filter spots based on proximity.  
+
+Shared Preferences:
+Save user settings.  
+
+Navigation:  
+Bottom Navigation: Easy access to Home, Map, and List sections.  
+
+Data Fetching:  
+API Integration: Fetch parking data from Madrid Open Data API using Retrofit. APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default  
+Offline Storage: Use Room database for local data storage.  
+
+Authentication:  
+Firebase Authentication: Manage user login and data securely.  
+
+Technical Features
+Architecture:  
+MVVM: Separation of concerns with Model-View-ViewModel architecture.  
+
+Networking:  
+Retrofit: API calls for fetching parking data.  
+Gson: JSON parsing with Retrofit.  
+
+Database:  
+Room Database: Local storage with structured data management.
+
+Location Services:
+Geolocator: Real-time user location tracking.
+
+Additional Libraries:  
+Firebase: For authentication and real-time data.  
+OpenStreetMap: Map functionalities.  
+
 
 How To Use  
 This application is aimed at residents of Madrid, but in the future, it will be available to more citizens across Spain. It is compatible with the vast majority of mobile devices.
