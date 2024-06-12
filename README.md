@@ -58,13 +58,13 @@ FEATURES
 Functional Features  
 
 Parking Location Search:  
-Map View: View parking spots on OpenStreetMap.  
-List View: Browse parking locations in a list.  
-Detail View: See detailed info for each parking spot.  
+Map View: View parking spots on OpenStreetMap    
+List View: Browse parking locations in a list    
+Detail View: See detailed info for each parking spot   
 Distance Filter: Filter spots based on proximity.  
 
 Shared Preferences:
-Save user settings.  
+Save user settings    
 
 Navigation:  
 Bottom Navigation: Easy access to Home, Map, and List sections.  
@@ -81,7 +81,7 @@ Architecture:
 MVVM: Separation of concerns with Model-View-ViewModel architecture.  
 
 Networking:  
-Retrofit: API calls for fetching parking data.  
+Retrofit: API calls for fetching parking data   
 Gson: JSON parsing with Retrofit.  
 
 Database:  
@@ -91,7 +91,7 @@ Location Services:
 Geolocator: Real-time user location tracking.
 
 Additional Libraries:  
-Firebase: For authentication and real-time data.  
+Firebase: For authentication and real-time data  
 OpenStreetMap: Map functionalities.  
 
 
