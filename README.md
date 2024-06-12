@@ -63,7 +63,7 @@ List View: Browse parking locations in a list
 Detail View: See detailed info for each parking spot   
 Distance Filter: Filter spots based on proximity.  
 
-Shared Preferences:
+Shared Preferences:  
 Save user settings    
 
 Navigation:  
