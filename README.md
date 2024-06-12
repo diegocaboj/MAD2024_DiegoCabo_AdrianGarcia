@@ -51,21 +51,6 @@ Demo Video
 
 [Demo Video 1 Minute version](https://upm365-my.sharepoint.com/:v:/g/personal/d_cabo_alumnos_upm_es/EQW1owo1_Q5OhGyMz0LB6dQBhJUFYnwzrDWz-49TBEcpIA?e=Ee5Iat&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
-Features
-1.	Functional
--	The user can view public parking lots in Madrid on the map and also see their current location, and see which one is closer.
--	They can access with different users, with a current email and password or through Google. They will also be able to see with what email you have entered the application once inside it. And also logout.
--	They will have a collection of all the locations with the coordinates and the date from where they have used the application. Which can be delete it if the user wants to.
--	The application allows you to do a filtered search through the coordinates and distance range from your location with the public parking lots in Madrid. In addition, just like from the map, they will also be able to see which are the closest parking lots from your location with a distance range of 600 meter by default.
-2.	Techincal
--	Maps: Openstreetmaps
--	APIs use: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=26e6cc885fcd3410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default. We use the API to display parking information
--	We add a toolbar and botton navegtion
--	Persistence in room database
--	Persistence in shared preference
--	Firebase Authetication.
-
 Functional Features  
 
 Parking Location Search:  
